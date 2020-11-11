@@ -10,4 +10,4 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![CSharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=fff)
 
-**Discord Server**
+**Discord Server:**
